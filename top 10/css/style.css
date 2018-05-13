@@ -27,3 +27,75 @@ h2{
 .voto {
     color: orange;
 }
+
+.container{
+  border: solid 3px black;
+  border-style: double;
+}
+
+/* CSS DEL BOTTONE */
+
+.shiny-button {
+  display: inline-block;
+  text-align: center;
+  border-width: 1px;
+  border-style: solid;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 1.1;
+  font-weight: normal;
+  font-family: sans-serif;
+  color: #FFFFFF;
+  font-size: 12px;
+  background-color: #E80721;
+  background-image: -webkit-linear-gradient(top, #ed0722 0%, #e1374a 48%, #E80721 49%, #E80721 82%, #f8132e 100%);
+  background-image: -moz-linear-gradient(top, #ed0722 0%, #e1374a 48%, #E80721 49%, #E80721 82%, #f8132e 100%);
+  background-image: -o-linear-gradient(top, #ed0722 0%, #e1374a 48%, #E80721 49%, #E80721 82%, #f8132e 100%);
+  background-image: linear-gradient(top, #ed0722 0%, #e1374a 48%, #E80721 49%, #E80721 82%, #f8132e 100%);
+  border-color: hsl(353, 33%, 47%);
+  -webkit-box-shadow: inset 0 0 1px 1px #f9475c, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: inset 0 0 1px 1px #f9475c, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  box-shadow: inset 0 0 1px 1px #f9475c, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  -webkit-text-shadow: 1px 1px 1px #850413;
+  -moz-text-shadow: 1px 1px 1px #850413;
+  -o-text-shadow: 1px 1px 1px #850413;
+  text-shadow: 1px 1px 1px #850413;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  padding: 8.399999999999999px 21px 8.399999999999999px 21px;
+}
+
+.shiny-button strong {
+  letter-spacing: 1px;
+  font-size: 22px;
+}
+
+.shiny-button:hover {
+  color: #FFFFFF;
+  background-color: #f70723;
+  background-image: -webkit-linear-gradient(top, #f80b27 0%, #e44356 48%, #f70723 49%, #f70723 82%, #f9213a 100%);
+  background-image: -moz-linear-gradient(top, #f80b27 0%, #e44356 48%, #f70723 49%, #f70723 82%, #f9213a 100%);
+  background-image: -o-linear-gradient(top, #f80b27 0%, #e44356 48%, #f70723 49%, #f70723 82%, #f9213a 100%);
+  background-image: linear-gradient(top, #f80b27 0%, #e44356 48%, #f70723 49%, #f70723 82%, #f9213a 100%);
+  border-color: hsl(353, 33%, 50%);
+  -webkit-box-shadow: inset 0 0 1px 1px #fa5569, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: inset 0 0 1px 1px #fa5569, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  box-shadow: inset 0 0 1px 1px #fa5569, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  -webkit-text-shadow: 1px 1px 1px #940415;
+  -moz-text-shadow: 1px 1px 1px #940415;
+  -o-text-shadow: 1px 1px 1px #940415;
+  text-shadow: 1px 1px 1px #940415;
+}
+
+.shiny-button:active {
+  color: #FFFFFF;
+  background-color: #d9071f;
+  background-image: -webkit-linear-gradient(top, #cf071e 0%, #E80721 100%);
+  background-image: -moz-linear-gradient(top, #cf071e 0%, #E80721 100%);
+  background-image: -o-linear-gradient(top, #cf071e 0%, #E80721 100%);
+  background-image: linear-gradient(top, #cf071e 0%, #E80721 100%);
+  padding: 9.399999999999999px 21px 7.399999999999999px 21px;
+}
+
+/*FINE CSS BOTTONE*/
