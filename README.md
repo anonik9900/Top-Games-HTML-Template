@@ -26,13 +26,13 @@ Top 10 games template written in HTML &amp; CSS
     color: orange;
     }</code>  e inserire all'interno della pagina html questo : <br>
   
-  <code>
+  <pre>
   <span class="fa fa-star voto"></span>
     <span class="fa fa-star voto"></span>
     <span class="fa fa-star voto"></span>
     <span class="fa fa-star voto"></span>
     <span class="fa fa-star"></span>
-</code>
+</pre>
     
     </p>
 
