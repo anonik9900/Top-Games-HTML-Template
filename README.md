@@ -15,7 +15,7 @@ Top 10 games template written in HTML &amp; CSS
  <p>
   Per modificare la parte grafica basta guardare il file <code>style.css</code> <br>
   il tag <strong><code>h2.autore</code></strong> presente nel css rappresenta le scritte in rosso<br>
-  che raprresenta (autore,piattaforma e publisher) <br>.
+  che rappresenta (autore,piattaforma e publisher) <br>.
   </p>
   <br>
   
