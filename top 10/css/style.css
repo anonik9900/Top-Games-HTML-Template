@@ -1,0 +1,29 @@
+p{
+  font-family: sans-serif;
+}
+
+h1.tt{
+  font-family: "Comic Sans MS";
+  border: solid 3px black;
+}
+
+img{
+  border: solid 4px red;
+}
+
+h1{
+  font-family: "Comic Sans MS";
+}
+
+h2.autore{
+  color: red;
+  font-family: sans-serif;
+}
+
+h2{
+  font-family: sans-serif;
+}
+
+.voto {
+    color: orange;
+}
