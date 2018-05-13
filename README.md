@@ -24,7 +24,9 @@ Top 10 games template written in HTML &amp; CSS
   Basta includere nel css un attributo
   <code>.voto {
     color: orange;
-    }</code>  e inserire all'interno della pagina html questo : <br>
+    }
+  </code> 
+  e inserire all'interno della pagina html questo : <br>
   
   <pre>
   <span class="fa fa-star voto"></span>
@@ -34,6 +36,5 @@ Top 10 games template written in HTML &amp; CSS
     <span class="fa fa-star"></span>
 </pre>
     
-    </p>
 
   
