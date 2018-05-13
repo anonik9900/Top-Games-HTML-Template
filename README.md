@@ -29,11 +29,11 @@ Top 10 games template written in HTML &amp; CSS
   e inserire all'interno della pagina html questo : <br>
   
   <pre>
-  <span class="fa fa-star voto"></span>
-    <span class="fa fa-star voto"></span>
-    <span class="fa fa-star voto"></span>
-    <span class="fa fa-star voto"></span>
-    <span class="fa fa-star"></span>
+  &lt;span class="fa fa-star voto"></span>
+  &lt;span class="fa fa-star voto"></span>
+  &lt;span class="fa fa-star voto"></span>
+  &lt;span class="fa fa-star voto"></span>
+  &lt;span class="fa fa-star"></span>
 </pre>
     
 
